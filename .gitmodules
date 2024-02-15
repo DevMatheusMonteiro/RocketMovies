@@ -1,0 +1,7 @@
+[submodule "backEnd"]
+	path = backEnd
+	url = https://github.com/DevMatheusMonteiro/rocketmovies-backEnd.git
+
+[submodule "frontEnd"]
+	path = frontEnd
+	url = https://github.com/DevMatheusMonteiro/rocketmovies-frontEnd.git
